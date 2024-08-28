@@ -9,7 +9,7 @@ sudo apt install --yes ansible git curl
 
 echo "################ updating help binary 'vn' for getting deploy command ################\n\n"
 
-sudo curl -qL https://git.io/JYnsz -o /usr/local/bin/vh
+sudo curl -qL https://bit.ly/4cIylMj -o /usr/local/bin/vh
 sudo chmod +x /usr/local/bin/vh
 
 echo "################### cloning virtualhost with MultiPHP repo ###########################"
